@@ -1,0 +1,2 @@
+vless://d9b96c2d-220a-4f1d-b3ca-acba921e46f4@account.amiryavari.ir:2087?type=ws&path=%2Ffjdsklajfh&host=account.amiryavari.ir&security=tls&fp=&alpn=h3%2Ch2&sni=pro.amiryavari.ir#new-sana-0204
+vless://533c4a0e-b30f-4263-b255-f3c677126695@pro.amiryavari.ir:2096?type=ws&path=%2Fpro&host=&security=tls&fp=&alpn=h3%2Ch2&sni=Pro.amiryavari.ir#Pro-sana
